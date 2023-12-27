@@ -1,4 +1,12 @@
-### Hi there 👋
+## Welcome!
+
+I am an experience full stack engineer who specializes in Python, TypeScript, React, Django, Express, and Node. 
+
+- 🥞 Full Stack Engineer
+- 🔭 Looking for a new job
+- 🔦 TypeScript, Python
+- ⚙️ BS, Mechanical Engineering
+
 
 <!--
 **sammydowds/sammydowds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
